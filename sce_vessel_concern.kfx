@@ -1,0 +1,6 @@
+#ES-003
+BOX: 124394.8  -8824.0  44588.0   8180.4   1512.0   1512.0 #023-ES-003-A_1ST STAGE HP COMPRESSOR SUCTION COOLER 1ST STAGE HP COMPRESSOR SUCTION COOLER                0.0    0.0  0
+BOX: 120334.8 -22978.0  44588.0   8180.4   1512.0   1512.0 #023-ES-003-B_1ST STAGE HP COMPRESSOR SUCTION COOLER 1ST STAGE HP COMPRESSOR SUCTION COOLER                0.0    0.0  0
+#VF-002
+BOX: 152794.4  -9944.6  36450.0   1249.2   1249.2   4080.0 #020-VF-002-B_Condensate Mercury L/L Filter Coalescer Condensate Mercury L/L Filter Coalescer               0.0    0.0  0
+BOX: 128853.0 -11336.0  34952.8    732.0    732.0   2743.2 #020-VF-003_Condensate Mercury Removal After Filter Condensate Mercury Removal After Filter               0.0    0.0  0
